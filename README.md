@@ -12,7 +12,7 @@
 <br>
 
  Desarrollador apasionado con conocimientos en JavaScript, HTML, CSS, Node.js y bases de datos no relacionales, incluyendo MongoDB. Soy competente en el uso de frameworks como Vue.js y bibliotecas como Quasar y Bootstrap. Además, tengo habilidades en el control de versiones con Git.
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
