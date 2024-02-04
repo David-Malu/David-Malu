@@ -51,7 +51,7 @@
 <ul>
 
 <li>
-href="https://www.linkedin.com/in/david-maluendas-1b3003276/"
+<a href="https://www.linkedin.com/in/david-maluendas-1b3003276/" target="_blank">LinkedIn</a>
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
